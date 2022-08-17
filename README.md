@@ -14,9 +14,39 @@ GraphQL is a powerful query language for APIs and a runtime for fulfilling those
 **MongoDB:**
 MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information.
 
+##Install Instruction
+
+First we need a code editor. I have used **VS Code**.
+Then we need to install **node** and **git bash**
+Then please follow the next steps.
+
+1.Clone the website from github using this commad.
+
+```bash
+  git clone https://github.com/Mokarram77117/crud-nest-js-graph-ql-mongo-db.git
+```
+
+2.Run the command for installing node package manager
+
+```bash
+    npm i
+```
+
+3. For better experience you can install yarn
+
+```bash
+    npm install --global yarn
+```
+
+3.For starting the project run the command
+
+```bash
+    npm run start:dev or yarn start:dev
+```
+
 ## Documentation
 
-I am providing the links of Documentation which are helpul this project.
+I am providing the links of Documentation which are helpul for this project.
 
 **NestJS:**[https://docs.nestjs.com]
 
