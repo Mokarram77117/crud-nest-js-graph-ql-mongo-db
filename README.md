@@ -14,7 +14,7 @@ GraphQL is a powerful query language for APIs and a runtime for fulfilling those
 **MongoDB:**
 MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information.
 
-##Install Instruction
+## Installation Instructions
 
 First we need a code editor. I have used **VS Code**.
 Then we need to install **node** and **git bash**
