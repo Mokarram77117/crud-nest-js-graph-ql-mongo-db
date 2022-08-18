@@ -38,7 +38,7 @@ Then please follow the next steps.
     npm install --global yarn
 ```
 
-3.For starting the project run the command
+4.For starting the project run the command
 
 ```bash
     npm run start:dev or yarn start:dev
